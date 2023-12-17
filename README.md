@@ -1,7 +1,7 @@
 # Brain-Tumour-Detection-Final-Project
 # <a id='intro'>1. Project Overview and Objectives</a>
 
-The main purpose of this project was to build a CNN model that would classify if subject has a tumor or not base on MRI scan. I used the [Efficientnet-B4](https://www.kaggle.com/ahmedhamada0/brain-tumor-detection-br35h) models architecture and weights to train the model for this binary problem. I used `accuracy` as a metric to justify the model performance which can be defined as:
+The main purpose of this project was to build a CNN model that would classify if subject has a tumor or not base on MRI scan. I used the [Efficientnet-B4](https://github.com/pramitsahoo/Brain-Tumour-Detection-Final-Project/blob/main/efficientnetb4_acc_score_99_67_(1).ipynb) models architecture and weights to train the model for this binary problem. I used `accuracy` as a metric to justify the model performance which can be defined as:
 
 $\textrm{Accuracy} = \frac{\textrm{Number of correclty predicted images}}{\textrm{Total number of tested images}} \times 100\%$
 
